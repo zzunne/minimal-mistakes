@@ -105,7 +105,7 @@ author:
   avatar           : "/assets/fullsizeoutput_29f.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "프로그래밍.코딩.IT.초보개발자"
   location         : "Seoul, Korea"
-  email            : "kjoon9236@gmail.com"
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "끄적끄적"
 title_separator          : "-"
 name                     : "KyungJun Kim"
 description              : "An amazing website."
@@ -101,11 +101,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "KyungJun Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  bio              : "프로그래밍.코딩.IT.초보개발자"
+  location         : "Seoul, Korea"
+  email            : "kjoon9236@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

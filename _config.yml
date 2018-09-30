@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "KyungJun Kim"
-  avatar           : "/assets/fullsizeoutput_29f.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/zzunne.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "프로그래밍.코딩.IT.초보개발자"
   location         : "Seoul, Korea"
   email            : 
